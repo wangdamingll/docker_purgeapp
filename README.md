@@ -1,2 +1,2 @@
-# docker_purgeapp
-docker purge app
+# docker_ubuntu
+docker ubuntu image base
